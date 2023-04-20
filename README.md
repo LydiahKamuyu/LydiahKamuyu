@@ -1,4 +1,4 @@
-# Hi there, I'm Lydiah!
+I'm Lydiah A.K.A Dyliah!
 
 
 
