@@ -1,7 +1,7 @@
 ### Hi there 👋
 I'm Lydiah!
 
-- 🔭 I’m currently working with Laravel, React, Java, Pyhon and Javascript Projects.
+- 🔭 I’m currently working with Laravel, Vue, Java, Pyhon and Javascript Projects.
 
 ![](https://github.com/vivekweb2013/vivekweb2013/blob/main/developer.gif)
 
